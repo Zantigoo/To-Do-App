@@ -1,6 +1,6 @@
-#A Pretty Basic To-Do App#
+#A Pretty Basic To-Do App
 
-##Does what it says on the packaging.##
+##Does what it says on the packaging.
 
 Nothing crazy here, has your basic reorder, add, delete and strike-through functionaily. 
 
